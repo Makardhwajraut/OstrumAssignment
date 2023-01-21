@@ -1,0 +1,1 @@
+SELECT * FROM ostrumtech.product_model;
